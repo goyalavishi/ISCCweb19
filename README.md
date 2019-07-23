@@ -23,6 +23,22 @@ website as interactive as possible.
           2.  Add the following features:
 		             Page which generates unique passes for the students.
 
+#Instructions:
+-------------- 
+1. Login for students to log in using Facebook or Gmail
+2. Workshops page to add upcoming workshops details name and logo of technology.
+3. Seminars page same as workshop. Image of person who is going to conduct seminar and topic.
+4. Page which shows the ongoing  tech events like iscc, robo soccer etc.
+5. Informal events like singing and dance competition.
+6. Logo of our Sponsors.
+7. Gallery page including pics of last fest.
+8. Social awareness initiative  - last year it was samriddhi which was concerned with menstrual hygiene
+9. Our team - convenor , tech core , pr core, hr core , sponsorship core.
+10. A button with generates  a customised pass with a random unique number.
+
+
+All you need to do is create a dummy for us. Take any images. Make sure you make it highly interactive.
+
 Additional Features:
 --------------------
 	“ The more the additional interactive features the better your score.”
