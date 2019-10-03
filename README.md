@@ -1,4 +1,4 @@
-                                                    
+﻿                                                    
 						    Innerve Summer of code 2019
 						   ******************************
 													
@@ -46,12 +46,14 @@ Additional Features:
 Conditions:
 -----------
 You are not allowed to delete the basic elements provided to you.
-You can although mould, update or upgrade the UI & UX of the website .
+You can although mould, update or upgrade the UI & UX of the website.
+You should adhere to the theme of the society.
 
 What we expect :
 ----------------
 A doc file listing down the changes you made.
 Only one commit of final solution per person is allowed.
+Sticking to the deadline.
 
 Time limit: 10 days [18th - 28th July 2019(23:59pm)]
 -----------
